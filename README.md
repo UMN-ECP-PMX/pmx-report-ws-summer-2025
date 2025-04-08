@@ -1,6 +1,6 @@
 # pmx-report-ws-summer-2025
 
-**TITLE:** Reporting workflow in pharmacometrics analyses using Quarto
+**TITLE:** Reporting workflow in pharmacometrics analyses using Quarto  
 **DATE:** July 16, 2025 (Wednesday) 
 **DURATION:** 1 Day 
 
